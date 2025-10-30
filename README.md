@@ -1,8 +1,9 @@
-# 💫 About Me:
-- 👨‍💻 Working on full-stack web apps (React, Node.js, MySQL)  
+# 💫 About Me:  
+👋 Hi, I'm **Shailesh Jiwana** — a passionate Full Stack Developer and aspiring AI Engineer.  
+- 👨‍💻 Currently working on full-stack web apps (React, Node.js, MySQL)  
 - 🌱 Learning Spring Boot & AI fundamentals  
 - 🤝 Open to collaborate on web & AI projects  
-- 💬 Ask me about Java, DSA & Web Dev  
+- 💬 Ask me about Java, DSA & Web Development  
 - ⚡ Fun fact: I love building real-world projects  
 
 ---
@@ -13,7 +14,7 @@
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack — *by Shailesh Jiwana*
 
 ### 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -83,4 +84,4 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created by Shailesh Jiwana using GPRM ( https://gprm.itsvg.in ) -->
