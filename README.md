@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shailesh Jiwana</h1>
+<h1 align="center">Hey 👋, I'm Shailesh Jiwana</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Java</h3>
 
 ---
