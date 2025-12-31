@@ -4,7 +4,7 @@
 ---
 
 ## 💫 About Me  
-- 👨‍💻 Currently working on **Full-Stack Web Apps (React, Node.js, MySQL)**  
+- 👨‍💻 Currently working on **Full-Stack Web Apps (React, Node.js, MySQL,mongoDB)**  
 - 🌱 Learning **Spring Boot** and **AI Fundamentals**  
 - 🤝 Open to collaborate on **Web Development** & **AI Projects**  
 - 💬 Ask me about **Java, DSA, and Web Development**  
