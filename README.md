@@ -76,11 +76,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shailesh-2128&theme=dark&hide_border=false&show_icons=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailesh-2128&theme=dark&hide_border=false" height="165" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailesh-2128&theme=dark&hide_border=false&layout=compact" />
